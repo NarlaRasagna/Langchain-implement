@@ -5,4 +5,5 @@ langchain-core
 langchain-community
 langchain-google-genai
 langgraph
-pydantic
+langserve>=0.3.0
+pydantic>=2
