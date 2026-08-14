@@ -4,6 +4,8 @@ langchain
 langchain-core
 langchain-community
 langchain-google-genai
+langchain-text-splitters
 langgraph
-langserve>=0.3.0
-pydantic>=2
+langserve==0.3.3
+pydantic>=2,<3
+pypdf
