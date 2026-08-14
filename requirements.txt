@@ -1,11 +1,8 @@
+langchain
+langgraph
+langchain-google-genai
+google-generativeai
+langserve
+sse-starlette
 fastapi
 uvicorn
-langchain
-langchain-core
-langchain-community
-langchain-google-genai
-langchain-text-splitters
-langgraph
-langserve==0.3.3
-pydantic>=2,<3
-pypdf
